@@ -1,6 +1,6 @@
 let listaDeNumerosSorteados = [];
 // Gera o primeiro número secreto da partida (entre 1 e 10)
-let numeroLimite = 20
+let numeroLimite = 10
 let numeroSecreto = gerarNumeroAleatorio();
 // Inicializa o contador de tentativas do jogador
 let tentativas = 1;
